@@ -1,3 +1,5 @@
+Time = O(n)
+
 class Solution(object):
     def removeElement(self, nums, val):
         i = 0
